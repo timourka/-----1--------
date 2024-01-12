@@ -1,0 +1,19 @@
+.my-navbar {
+    background-color: #00a429 !important;
+}
+
+.my-navbar .link a:hover {
+    text-decoration: underline !important;
+    font-size: large !important; 
+}
+
+.logo {
+    width: 94px;
+    height: 74px;
+}
+header nav {
+    
+    background-color: #00a408;
+    
+}
+

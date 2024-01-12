@@ -1,0 +1,25 @@
+#banner {
+    margin: 2px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#banner img {
+    border: 1px solid #3c3c3f;
+    border-radius: 5px;
+}
+
+#banner img.banner-show {
+    width: 100%;
+    opacity: 1;
+    transition: opacity 1s, visibility 0s;
+}
+
+#banner img.banner-hide {
+    height: 0;
+    width: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 1s, visibility 0s 1s;
+}

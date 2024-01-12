@@ -1,0 +1,62 @@
+.body{
+    background-image: url(assets/фон.jpg);
+    
+}
+.header nav {
+    
+    background-color: #00a42991;
+    
+}
+
+.img{
+    width: 94px;
+    height: 74px;
+}
+@media (min-width: 768px) {
+    header nav {
+        height: 100px;
+    }
+}
+
+
+.header nav a:hover {
+    text-decoration: underline;
+    font-size: large;
+}
+
+.footer {
+    background-color: #00a437;
+    height: 32px;
+    color: #ffffff;
+    
+    
+}
+
+.h1 {
+    /* font-size: 64em; */
+    
+    background-color: #af1c1c;
+    color: #ffffff;
+}
+
+
+.add1{
+    background-color: #8c0202;
+    font-size: large;
+   
+}
+
+
+
+.add2{
+    background-color: #a85454;
+    font-size: large;
+    
+}
+
+.add3{
+    background-color: #8c0202;
+    
+    font-size: large;
+    
+}

@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "me",
+      "password": "12345"
+    }
+  ],
+  "students": [
+    {
+      "typeId": "3",
+      "stepId": "1",
+      "name": "asd",
+      "id": 2
+    },
+    {
+      "typeId": "2",
+      "stepId": "1",
+      "name": "asd",
+      "id": 3
+    },
+    {
+      "typeId": "6",
+      "stepId": "4",
+      "name": "студент",
+      "id": 4
+    }
+  ],
+  "types": [
+    {
+      "id": 2,
+      "text": "Pibd-22"
+    },
+    {
+      "id": 3,
+      "text": "Pibd-23"
+    },
+    {
+      "id": 4,
+      "text": "Pibd-24"
+    },
+    {
+      "text": "Pibd-21",
+      "id": 5
+    },
+    {
+      "text": "исэбд-11",
+      "id": 6
+    }
+  ],
+  "steps": [
+    {
+      "id": 1,
+      "sum": "123",
+      "text": "стандартная"
+    },
+    {
+      "id": 3,
+      "sum": "100500",
+      "text": "повышенаяя"
+    },
+    {
+      "sum": "0",
+      "text": "без стипендии",
+      "id": 4
+    }
+  ]
+}
